@@ -101,21 +101,18 @@ CL-USER> (show-table)
  18 | 2.82715585d+00
  19 | 2.88520153d+00
  20 | 2.93994751d+00
-NIL
-CL-USER> (run-tests)
 
 Tests:
 F1 = 1: T
-F11 = 1: T
-2..10 increasing: T
-12..20 decreasing: T
-NIL
+F6 = 1: T
+2..5 equals 5.0: T
+7..20 increasing: T
 ```
 
 ### Порівняння результатів з іншими методами (Matlab)
 
 <p align="center">
-  <img src="image.jpg" alt="Таблиця">
+  <img src="image2.png" alt="Таблиця">
   <br>Таблиця
 </p>
 
