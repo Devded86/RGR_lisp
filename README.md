@@ -115,11 +115,7 @@ NIL
 ### Порівняння результатів з іншими методами (Matlab)
 
 <p align="center">
-  <img src="img/img2.jpg" alt="Таблиця">
+  <img src="image.jpg" alt="Таблиця">
   <br>Таблиця
 </p>
 
-<p align="center">
-  <img src="img/img3.jpg" alt="Графік">
-  <br>Графік
-</p>
